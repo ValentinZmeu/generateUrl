@@ -2,6 +2,7 @@
  * Convert a string to a ur
  *
  * @param String $str The string to convert 
+ * @param String $baseUrl The main url
  * @param Array $removeChars The array with chars to remove
  *
  * @return String
