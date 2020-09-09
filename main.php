@@ -1,3 +1,5 @@
+<?php
+
 /**
  * Convert a string to a ur
  *
